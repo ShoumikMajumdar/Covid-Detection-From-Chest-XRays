@@ -15,3 +15,5 @@ The file with the weights are as follows:
 Tuned VGG16: "best_model_task2.h5"
 Tuned Xception: "best_model_2_task2.h5"
 Tuned Self created network: "best_model_3_task2.h5"
+
+Model weights can be found here https://drive.google.com/drive/folders/1s0Hpnp5AtsyRyTuuL5hcHFJPGyHRkHzk?usp=sharing
