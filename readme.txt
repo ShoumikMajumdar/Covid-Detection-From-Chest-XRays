@@ -1,3 +1,5 @@
+#COVID19 detection from chest X Ray Scans 
+
 The goal of this project is to successfully determine if a patient is COVID19 positive using chest X-ray scans.
 
 
